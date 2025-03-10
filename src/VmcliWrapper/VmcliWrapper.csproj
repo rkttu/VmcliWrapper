@@ -10,7 +10,7 @@
 	<PropertyGroup>
 		<RootNamespace>VmcliWrapper</RootNamespace>
 		<Title>VmcliWrapper</Title>
-		<Version>0.5.0</Version>
+		<Version>0.5.1</Version>
 		<Authors>Jung Hyun, Nam</Authors>
 		<Company>rkttu.com</Company>
 		<Product>VmcliWrapper</Product>
